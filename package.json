@@ -10,6 +10,15 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "prompt-sync": "^4.2.0"
-  }
+    "prompt-sync": "^4.2.0",
+    "yargs": "^17.5.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RicLMCR/nodeCLI.git"
+  },
+  "bugs": {
+    "url": "https://github.com/RicLMCR/nodeCLI/issues"
+  },
+  "homepage": "https://github.com/RicLMCR/nodeCLI#readme"
 }

@@ -14,3 +14,14 @@ exports.listMovies = ()=>{
         movArray
         )
 }
+
+////////////////////////// yargs
+// const movies = [];
+
+// exports.addMovie = (movieObj)=>{//Parameters should be named after teh data included and the type of data
+//     movies.push(movieObj);
+// }
+
+// exports.listMovies =()=>{
+//     return movies;
+// }
