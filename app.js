@@ -20,6 +20,7 @@
 
 
 /////////////////////////////////////////////////////// MON - YARGS //////////////////////////////////////////////////
+// Use command line to create key value pair for object
 
 const yargs = require("yargs");
 const { addMovie, listMovies } = require("./utils");
